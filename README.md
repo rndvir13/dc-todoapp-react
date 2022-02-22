@@ -6,6 +6,22 @@
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
+<div align="center">
+  <h3>
+    <a href="https://dc-todoapp-react-by-rndvir13.netlify.app">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/solutions/nusLGslsjcUf30ScHGkx">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/hH6PbOHBdPm6otzw2De5">
+      Challenge
+    </a>
+  </h3>
+</div>
+
 ## Table of Contents
 
 - [Built With](#built-with)
